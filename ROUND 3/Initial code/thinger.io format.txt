@@ -1,0 +1,16 @@
+thing["location"] >> [](pson & out) {
+
+    out["lat"] = myGNSS.getLatitude();
+    out["lon"] = myGNSS.getLongitude();
+    Serial.print("Latitute: ");
+    Serial.println(latitude / 10000000, 7);
+    Serial.print("Longitute: ");
+    Serial.println(longitude / 10000000, 7);
+  };
+
+thing["speed"] >> [](pson & out) {
+
+    out["speed"] = myGNSS.getLatitude();
+    Serial.print("speed: ");
+    Serial.println(speed / 447); 
+  };

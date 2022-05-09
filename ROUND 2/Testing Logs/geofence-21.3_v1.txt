@@ -1,0 +1,155 @@
+GPS Speedometer Demo
+Waiting for a 3D fix...
+Fix: 3 = 3D
+3D fix found!
+Lat: 515941221   Long: -1924002
+Clearing any existing geofences. clearGeofences returned: 1
+Setting the geofences:
+addGeofence for geofence 1 returned: 1
+addGeofence for geofence 2 returned: 1
+addGeofence for geofence 3 returned: 1
+addGeofence for geofence 4 returned: 1
+Lat: 51.59 Long: -0.19 Speed: 1.00 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 0.53 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 0.62 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 1.02 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 1.64 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 0.98 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 0.42 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 0.81 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 0.69 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 1,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 1.32 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 1.20 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 1.38 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 2.09 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 4.19 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 5.07 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,1,1,1
+Lat: 51.59 Long: -0.19 Speed: 7.66 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,0,1,1
+Lat: 51.59 Long: -0.19 Speed: 9.22 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,0,1,1
+Lat: 51.59 Long: -0.19 Speed: 12.40 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,0,1,1
+Lat: 51.59 Long: -0.19 Speed: 13.98 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,0,0,1
+Lat: 51.59 Long: -0.19 Speed: 15.66 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,0,0,1
+Lat: 51.59 Long: -0.19 Speed: 16.87 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 1 = Inside. The individual states are: 0,0,0,1
+Lat: 51.59 Long: -0.19 Speed: 17.71 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 0 = Unknown. The individual states are: 2,0,0,0
+Lat: 51.59 Long: -0.19 Speed: 18.35 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 0 = Unknown. The individual states are: 2,0,0,0
+Lat: 51.59 Long: -0.19 Speed: 16.61 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 0 = Unknown. The individual states are: 2,0,0,0
+Lat: 51.59 Long: -0.19 Speed: 17.38 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 0 = Unknown. The individual states are: 2,2,0,0
+Lat: 51.59 Long: -0.19 Speed: 16.02 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 0 = Unknown. The individual states are: 2,2,0,0
+Lat: 51.59 Long: -0.19 Speed: 18.11 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 0 = Unknown. The individual states are: 2,2,2,0
+Lat: 51.59 Long: -0.19 Speed: 19.63 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 0 = Unknown. The individual states are: 2,2,2,0
+Lat: 51.59 Long: -0.19 Speed: 20.91 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 0 = Unknown. The individual states are: 2,2,2,0
+Lat: 51.59 Long: -0.19 Speed: 21.08 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.19 Speed: 22.27 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.19 Speed: 23.84 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 23.49 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 18.62 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 13.83 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 11.09 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 10.68 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 11.97 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.19 Speed: 13.49 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.19 Speed: 13.56 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.19 Speed: 11.44 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.19 Speed: 11.80 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 16.04 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 17.61 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 16.63 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 14.15 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 10.19 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 5.87 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 3.21 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 3.00 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 1.78 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 0.83 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 0.37 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 1.17 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 0.74 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 0.80 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 0.60 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 0.98 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 4.01 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 4.48 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 3.99 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 3.62 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 3.14 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 3.78 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 5.13 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 5.26 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 6.38 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 6.32 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 5.68 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 4.43 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 2.81 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2
+Lat: 51.59 Long: -0.20 Speed: 2.72 (mph)
+getGeofenceState returned: 1. status is: 1. numFences is: 4. combState is: 2 = Outside. The individual states are: 2,2,2,2

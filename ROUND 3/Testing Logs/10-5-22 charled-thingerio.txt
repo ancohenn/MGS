@@ -1,0 +1,895 @@
+[SIMCARD] GSM Network: 1
+[___GPRS] Connecting to APN: iot.1nce.net
+[___GPRS] APN username: 
+[___GPRS] APN password: 
+[___GPRS] APN Connection suceed!
+[NETWORK] Got IP Address: 100.95.120.19
+[NETWORK] Connected!
+[_SOCKET] Connecting to iot.thinger.io:25202...
+[_SOCKET] Using secure TLS/SSL connection: yes
+[_SOCKET] Connected!
+[THINGER] Authenticating. User: anc Device: mkr1400gsm
+[THINGER] Writing bytes: 42 [OK]
+[THINGER] Authenticated
+[THINGER] Available bytes: 23
+[THINGER] Writing bytes: 8 [OK]
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Available bytes: 26
+[THINGER] Writing bytes: 8 [OK]
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 1.28
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 2.47
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 3.55
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 3.27
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 3.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 2.85
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 1.49
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 2.71
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 4.60
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 4.33
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 1.94
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.08
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Writing bytes: 2 [OK]
+[THINGER] Writing bytes: 35 [OK]
+[THINGER] Writing bytes: 24 [OK]
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Available bytes: 2
+Speed: 0.08
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.00
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.77
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 2.33
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 5.39
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 6.91
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 5.17
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 0.44
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Writing bytes: 2 [OK]
+[THINGER] Writing bytes: 35 [OK]
+[THINGER] Writing bytes: 24 [OK]
+Speed: 3.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+[THINGER] Available bytes: 2
+Speed: 6.74
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 9.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 10.72
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 12.12
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 12.75
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 15.42
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 16.72
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 18.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 22.97
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 23.81
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 21.85
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 19.94
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 16.88
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 14.46
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 14.96
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 18.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 19.48
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 15.76
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 11.10
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 7.79
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 6.55
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 6.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 5.97
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 6.11
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 5.45
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 5.44
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 5.26
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 4.39
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 3.69
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+[THINGER] Writing bytes: 2 [OK]
+[THINGER] Writing bytes: 35 [OK]
+[THINGER] Writing bytes: 25 [OK]
+Speed: 3.24
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+[THINGER] Available bytes: 2
+Speed: 1.96
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.59
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.10
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.09
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Writing bytes: 2 [OK]
+[THINGER] Writing bytes: 35 [OK]
+[THINGER] Writing bytes: 24 [OK]
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Available bytes: 2
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.00
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.07
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.74
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.38
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.10
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.10
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.07
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Writing bytes: 2 [OK]
+[THINGER] Writing bytes: 35 [OK]
+[THINGER] Writing bytes: 24 [OK]
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Available bytes: 2
+Speed: 0.11
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.08
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.09
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.09
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 2.83
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 7.79
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 11.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 11.53
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 10.17
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 9.32
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 11.79
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 14.86
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 13.44
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 11.47
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 8.72
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 8.62
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 10.59
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 13.76
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 11.83
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 10.14
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 8.54
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 5.54
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 4.26
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+[THINGER] Writing bytes: 2 [OK]
+[THINGER] Writing bytes: 35 [OK]
+[THINGER] Writing bytes: 25 [OK]
+Speed: 4.59
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+[THINGER] Available bytes: 2
+Speed: 3.59
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 1.72
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.70
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 1.12
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 5.84
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 6.33
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 4.31
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 2.79
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 3.55
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 23 [OK]
+
+Speed: 2.26
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.21
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.12
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.08
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.13
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.07
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.07
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.02
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Writing bytes: 2 [OK]
+[THINGER] Writing bytes: 35 [OK]
+[THINGER] Writing bytes: 24 [OK]
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+[THINGER] Available bytes: 2
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.08
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.06
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.01
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.10
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.03
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.08
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.05
+[THINGER] Writing bytes: 36 [OK]
+[THINGER] Writing bytes: 22 [OK]
+
+Speed: 0.04
+[THINGER] Writing bytes: 36 [OK]
